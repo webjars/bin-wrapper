@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>bin-wrapper</artifactId>
-    <version>0.3.4-1</version>
+    <version>0.3.5-SNAPSHOT</version>
     <name>bin-wrapper</name>
     <description>WebJar for bin-wrapper</description>
     <url>http://webjars.org</url>
@@ -28,7 +28,7 @@
         <url>https://github.com/webjars/bin-wrapper</url>
         <connection>scm:git:https://github.com/webjars/bin-wrapper.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/bin-wrapper.git</developerConnection>
-        <tag>bin-wrapper-0.3.4-1</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <developers>
